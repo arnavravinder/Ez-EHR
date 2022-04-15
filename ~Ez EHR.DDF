@@ -1,0 +1,44 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=C:\Users\vravi\Downloads\Ez EHR (3)\Ez EHR\~Ez EHR.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=C:\Users\vravi\Downloads\Ez EHR (3)\Ez EHR\~Ez EHR_LAYOUT.INF
+.Set RptFileName=C:\Users\vravi\Downloads\Ez EHR (3)\Ez EHR\~Ez EHR.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_asyncio.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_bz2.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_ctypes.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_decimal.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_hashlib.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_lzma.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_MULTI~1.PYD
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_OVERL~1.PYD
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_queue.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_socket.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_sqlite3.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\_ssl.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\BASE_L~1.ZIP
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\LIBCRY~1.DLL
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\libffi-7.dll
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\LIBSSL~1.DLL
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\pyexpat.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\PYTHON~1.DLL
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\select.pyd
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\sqlite3.dll
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\UNICOD~1.PYD
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\VCRUNT~1.DLL
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\BETAEH~1.DB
+C:\Users\vravi\DOWNLO~1\EZEHR(~1\EZEHR~1\EZEHR~1.EXE
